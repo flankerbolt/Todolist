@@ -1,4 +1,4 @@
-/*
+j/*
 Inspired by AR Shakir
 Wigs - Ecommerce Website UI:
 https://dribbble.com/shots/15438373-Wigs-Ecommerce-Website-UI
@@ -15,3 +15,4 @@ $(document).ready(function(){
         $('.search-bar').toggleClass('open');
     });
 });
+j
